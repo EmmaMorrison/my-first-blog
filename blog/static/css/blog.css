@@ -1,0 +1,52 @@
+body {
+  padding-left: 3em;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Fredericka the Great';
+}
+
+h1 a {
+  color: #33ffd6;
+  font-size: 40pt;
+  text-decoration: none;
+}
+
+.page-header {
+  background-color: #e6e6e6;
+  margin-top: 0;
+  margin-left: -3em;
+  padding: 2em 2em 2em 3em;
+}
+
+.content {
+  margin-left: 4em;
+}
+
+.date {
+  color: #828282;
+}
+
+.save {
+  float: right;
+}
+
+.post-form textarea, .post-form input {
+  width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+  color: #2ee6da;
+  float: right;
+  font-size: 26pt;
+  margin-right: 20px;
+}
+
+.post {
+  margin-bottom: 70px;
+}
+
+.post h3 a, .post h3 a:visited {
+  font-size: 26pt;
+  color: #000;
+}
